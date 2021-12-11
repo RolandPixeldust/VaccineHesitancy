@@ -271,7 +271,7 @@ Material:
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissiveColor: {r: 0, g: 0, b: 0, a: 1}
     - _EmissiveColorLDR: {r: 0, g: 0, b: 0, a: 1}
-    - _FresnelAmount: {r: 157.5865, g: 157.5865, b: 157.5865, a: 0}
+    - _FresnelAmount: {r: 1.1353015, g: 1.1353015, b: 1.1353015, a: 0}
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
