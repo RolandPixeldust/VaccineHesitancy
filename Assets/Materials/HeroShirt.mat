@@ -230,7 +230,7 @@ Material:
     - _RefractionModel: 0
     - _RenderQueueType: 1
     - _RequireSplitLighting: 0
-    - _Smooth: 0.1
+    - _Smooth: 0.21
     - _Smoothness: 0.5
     - _SmoothnessMax: 1
     - _SmoothnessMin: 0
@@ -280,7 +280,7 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 0.514151, b: 0.514151, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
-    - _Color: {r: 0.681, g: 0.348672, b: 0.348672, a: 1}
+    - _Color: {r: 0.61, g: 0.3120115, b: 0.3120115, a: 1}
     - _DiffusionProfileAsset: {r: 0, g: 0, b: 0, a: 0}
     - _DisplaceAddRange: {r: -0.5, g: 0, b: 0, a: 0}
     - _DisplaceRange: {r: 0, g: 0.004, b: 0, a: 0}
@@ -288,7 +288,7 @@ Material:
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissiveColor: {r: 0, g: 0, b: 0, a: 1}
     - _EmissiveColorLDR: {r: 0, g: 0, b: 0, a: 1}
-    - _FresnelAmount: {r: 11.984314, g: 11.984314, b: 11.984314, a: 0}
+    - _FresnelAmount: {r: 20.865906, g: 20.865906, b: 20.865906, a: 0}
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
