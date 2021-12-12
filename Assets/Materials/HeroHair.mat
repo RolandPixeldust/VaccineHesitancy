@@ -57,7 +57,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _AddPrecomputedVelocity: 0
-    - _AlphaClipThreshold: 0.009
+    - _AlphaClipThreshold: 0.153
     - _AlphaClipThresholdDepthPostpass: 0.6
     - _AlphaClipThresholdDepthPrepass: 0.9
     - _AlphaCutoffEnable: 1
@@ -86,8 +86,8 @@ Material:
     - _RequireSplitLighting: 0
     - _SecondarySpecular: 0.934
     - _SecondarySpecularShift: 0.9
-    - _SmoothnessMax: 0
-    - _SmoothnessMin: 0
+    - _SmoothnessMax: 0.642
+    - _SmoothnessMin: 0.203
     - _Specular: 1
     - _SpecularShift: 0.585
     - _SrcBlend: 1
@@ -103,7 +103,7 @@ Material:
     - _StencilWriteMaskMV: 40
     - _SupportDecals: 1
     - _SurfaceType: 1
-    - _TransmissionRim: 0.618
+    - _TransmissionRim: 1
     - _TransparentBackfaceEnable: 1
     - _TransparentCullMode: 2
     - _TransparentDepthPostpassEnable: 0
@@ -117,11 +117,11 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.667, g: 0.667, b: 0.667, a: 1}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _DoubleSidedConstants: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _SpecularColor: {r: 0.461, g: 0.23948053, b: 0, a: 1}
-    - _TransmissionColor: {r: 0.08235294, g: 0.07058824, b: 0.050980393, a: 1}
+    - _TransmissionColor: {r: 1.0702621, g: 0.91736746, b: 0.6625431, a: 1}
     - _uvBaseST: {r: 1, g: 1, b: 0, a: 0}
     - _uvSmoothnessST: {r: 20, g: 5, b: 0, a: 0}
   m_BuildTextureStacks: []
