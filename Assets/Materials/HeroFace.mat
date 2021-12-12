@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_DiffusionProfileReferences:
-  - {fileID: 11400000, guid: 26bdddf49760c61438938733f07fa2a2, type: 2}
+  - {fileID: 11400000, guid: 0003a9adea30ad044aacd2da1ec25f0f, type: 2}
   m_MaterialReferences: []
 --- !u!21 &2100000
 Material:
@@ -160,7 +160,7 @@ Material:
     - _DetailNormalScale: 1
     - _DetailSmoothnessScale: 1
     - _DiffusionProfile: 0
-    - _DiffusionProfileHash: 2.7317202
+    - _DiffusionProfileHash: 2.2054396
     - _DisplacementLockObjectScale: 1
     - _DisplacementLockTilingScale: 1
     - _DisplacementMode: 3
@@ -207,8 +207,8 @@ Material:
     - _ReceivesSSRTransparent: 0
     - _RefractionModel: 0
     - _Smoothness: 0.5
-    - _SmoothnessRemapMax: 0.46184772
-    - _SmoothnessRemapMin: 0.04939796
+    - _SmoothnessRemapMax: 0.5523455
+    - _SmoothnessRemapMin: 0
     - _SpecularAAScreenSpaceVariance: 0.1
     - _SpecularAAThreshold: 0.2
     - _SpecularOcclusionMode: 1
@@ -252,10 +252,10 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.65, g: 0.5727272, b: 0.5181818, a: 1}
+    - _BaseColor: {r: 0.71599996, g: 0.62973493, b: 0.56934935, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
-    - _Color: {r: 0.65, g: 0.57272714, b: 0.5181818, a: 1}
-    - _DiffusionProfileAsset: {r: -1.405437e+32, g: 2.0030989e-26, b: 0.00000006313206, a: -4.4045647e-18}
+    - _Color: {r: 0.71599996, g: 0.6297349, b: 0.56934935, a: 1}
+    - _DiffusionProfileAsset: {r: -1.9214408e-11, g: 4.0717025e-36, b: -2.964959e+16, a: 1.10321345e-29}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissiveColor: {r: 0, g: 0, b: 0, a: 1}

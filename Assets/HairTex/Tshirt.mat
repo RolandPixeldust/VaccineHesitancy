@@ -278,7 +278,7 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
-    - _Color: {r: 0.6509804, g: 0.31377256, b: 0.3285948, a: 1}
+    - _Color: {r: 0.6509804, g: 0.2955451, b: 0.312077, a: 1}
     - _DiffusionProfileAsset: {r: 0, g: 0, b: 0, a: 0}
     - _DisplaceAddRange: {r: -0.5, g: 0, b: 0, a: 0}
     - _DisplaceRange: {r: 1, g: 0.005, b: 0, a: 0}
