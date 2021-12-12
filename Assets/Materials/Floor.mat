@@ -185,10 +185,10 @@ Material:
     - _EnableGeometricSpecularAA: 0
     - _EnergyConservingSpecularColor: 1
     - _FresnelPower: 2
-    - _HeightAmplitude: 0.16149999
-    - _HeightCenter: 0.061919507
+    - _HeightAmplitude: 0.13
+    - _HeightCenter: 0.07692308
     - _HeightMapParametrization: 0
-    - _HeightMax: 15.15
+    - _HeightMax: 12
     - _HeightMin: -1
     - _HeightOffset: 0
     - _HeightPoMAmplitude: 2
