@@ -46,7 +46,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseColorMap:
-        m_Texture: {fileID: 2800000, guid: a26e2596b809e5547a28123d2419f3d0, type: 3}
+        m_Texture: {fileID: 2800000, guid: 46ee330a3720b6249aa1e25edec33cc5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BentNormalMap:
@@ -82,7 +82,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: a26e2596b809e5547a28123d2419f3d0, type: 3}
+        m_Texture: {fileID: 2800000, guid: 46ee330a3720b6249aa1e25edec33cc5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap:
@@ -195,7 +195,7 @@ Material:
     - _MetallicRemapMax: 1
     - _MetallicRemapMin: 0
     - _NormalMapSpace: 0
-    - _NormalScale: 1
+    - _NormalScale: 0.5
     - _OpaqueCullMode: 2
     - _PPDLodThreshold: 5
     - _PPDMaxSamples: 15
@@ -207,8 +207,8 @@ Material:
     - _ReceivesSSRTransparent: 0
     - _RefractionModel: 0
     - _Smoothness: 0.5
-    - _SmoothnessRemapMax: 0.61975884
-    - _SmoothnessRemapMin: 0.24994613
+    - _SmoothnessRemapMax: 0.47104406
+    - _SmoothnessRemapMin: 0.101231456
     - _SpecularAAScreenSpaceVariance: 0.1
     - _SpecularAAThreshold: 0.2
     - _SpecularOcclusionMode: 1
@@ -252,9 +252,9 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.72, g: 0.63325304, b: 0.57253015, a: 1}
+    - _BaseColor: {r: 0.95, g: 0.95, b: 0.95, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
-    - _Color: {r: 0.72, g: 0.63325304, b: 0.5725302, a: 1}
+    - _Color: {r: 0.95, g: 0.95, b: 0.95, a: 1}
     - _DiffusionProfileAsset: {r: -1.9214408e-11, g: 4.0717025e-36, b: -2.964959e+16, a: 1.10321345e-29}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
