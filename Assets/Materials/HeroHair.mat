@@ -88,7 +88,7 @@ Material:
     - _SecondarySpecularShift: 0.9
     - _SmoothnessMax: 0.642
     - _SmoothnessMin: 0.203
-    - _Specular: 1
+    - _Specular: 0.293
     - _SpecularShift: 0.585
     - _SrcBlend: 1
     - _StencilRef: 0
