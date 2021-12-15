@@ -248,7 +248,7 @@ MonoBehaviour:
     m_Value: 0.75
   shapeScale:
     m_OverrideState: 1
-    m_Value: 2
+    m_Value: 1
   shapeOffset:
     m_OverrideState: 1
     m_Value: {x: 0, y: 0, z: 0}
@@ -274,7 +274,7 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value:
       mode: 0
-      customValue: 40000
+      customValue: 10000
       additiveValue: 0
       multiplyValue: 1
   orientation:
@@ -304,7 +304,7 @@ MonoBehaviour:
     m_Value: 0
   temporalAccumulationFactor:
     m_OverrideState: 1
-    m_Value: 0.85
+    m_Value: 0.95
   ghostingReduction:
     m_OverrideState: 1
     m_Value: 1
